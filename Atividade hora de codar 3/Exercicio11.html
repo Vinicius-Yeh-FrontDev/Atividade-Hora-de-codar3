@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio 11</title>
+    <script>
+        var entre = 0;
+        var fora = 0;
+        for (var i=0;i<10;i++) {
+            var valor = parseInt(prompt("Digite o "+(i + 1)+"º valor"));
+            if (valor>=24 && valor<=42) {
+                entre++;
+            }else {
+                fora++;
+            }
+        }
+        document.write("Há " + entre + " números entre os números 24 e 42 <br>");
+        document.write("Há " + fora + " números que não está entre os números 24 e 42");
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

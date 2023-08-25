@@ -1,0 +1,24 @@
+Algoritmo - Exercício 7
+
+1- Leia a primeira nota (nota1).
+2- Leia a primeira nota (nota2).
+3- Leia a terceira nota (nota3).
+4- Leia a quarta nota (nota4).
+5- Leia a quinta nota (nota5).
+6- Leia a sextaa nota (nota6).
+7- Para (i=0), (enquantoi<100), incrementar (i).
+    8-Se (nota1<0 ou nota1>10).
+        9- Peça ao usuário uma resposta válida para (nota1).
+    10-Se (nota2<0 ou nota2>10).
+        11- Peça ao usuário uma resposta válida para (nota2).
+    12-Se (nota3<0 ou nota3>10).
+        13- Peça ao usuário uma resposta válida para (nota3).
+    14-Se (nota4<0 ou nota4>10).
+        15- Peça ao usuário uma resposta válida para (nota4).
+    16-Se (nota5<0 ou nota5>10).
+        17- Peça ao usuário uma resposta válida para (nota5).
+    18-Se (nota6<0 ou nota6>10).
+        19- Peça ao usuário uma resposta válida para (nota6).
+20- Crie uma variável (soma) e atribua à ela a soma de todas as notas.
+21- Crie uma variável (media) e atribua à ela: soma/6.
+22- Escreva a média para o usuário.

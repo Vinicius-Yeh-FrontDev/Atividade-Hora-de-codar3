@@ -1,0 +1,4 @@
+Algoritmo - Exercício 3
+
+1-Para (i=10), enquanto (i>0), decrementar (i).
+    2-Escreva (i+" ").

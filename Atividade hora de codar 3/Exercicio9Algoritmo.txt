@@ -1,0 +1,4 @@
+Algoritmo - Exercício 9
+
+1- Para (i=100), enquanto (i<110), incrementar (i).
+    2- Escreva (i+" ).

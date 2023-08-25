@@ -1,0 +1,7 @@
+Algoritmo- Exercício 4
+
+1-Crie uma variável (soma) e atribua o valor de 0 à ela.
+2-Para (i=15), enquanto (i<=100), incrementar (i). 
+    3-Soma recebe o valor de: soma+i.
+4- Crie uma variável (media) e atribua o valor de: soma/85.
+5- Escreva a variável (media). 
