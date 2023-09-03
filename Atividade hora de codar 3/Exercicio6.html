@@ -6,6 +6,7 @@
     <title>Exercicio 6</title>
     <script>
         var r=1;
+        var contagemAlunos = 0;
         do{
             var nota1 = parseFloat(prompt("Digite sua primeira nota"));
             var nota2 = parseFloat(prompt("Digite sua segunda nota"));
@@ -14,9 +15,11 @@
                 console.log("Você foi reprovado.");
             }else{
                 console.log("Você foi aprovado.");
+                contagemAlunos++
             }
             r = parseInt(prompt("Calcular a média de outro(a) aluno(a)? 1-Sim 2-Não"));
         }while(r==1);
+        console.log(contagemAlunos+" Alunos aprovados.");
     </script>
 </head>
 <body>
